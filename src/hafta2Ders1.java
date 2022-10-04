@@ -8,5 +8,6 @@ public class hafta2Ders1 {
 		}else {
 			System.out.println("elseye girdi");
 		}
+		System.out.println("test");
 	}
 }
